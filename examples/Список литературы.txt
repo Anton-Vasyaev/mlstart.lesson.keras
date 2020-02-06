@@ -1,0 +1,7 @@
+https://keras.io/ - Документация Keras
+
+https://arxiv.org/abs/1603.07285 - Арифметика сверточных слоев
+
+https://habr.com/ru/post/318970/ - Методы оптимизации нейронных сетей
+
+http://neerc.ifmo.ru/wiki/index.php?title=Batch-normalization#cite_note-1 - BatchNormalization
